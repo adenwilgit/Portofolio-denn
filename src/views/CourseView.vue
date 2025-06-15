@@ -36,10 +36,10 @@
               </a>
             </div>
             <div>
-              <div class="w-20 h-20 ...">
+              <div class="w-20 h-20 md:w-28 md:h-28 flex items-center">
                 <img
                   src="/img/Sertif_DasarJavascript.png"
-                  class="rounded-lg ..."
+                  class="rounded-lg md:rounded-xl"
                   alt="Certificate"
                 />
               </div>
@@ -79,10 +79,10 @@
               </a>
             </div>
             <div>
-              <div class="w-20 h-20 ...">
+              <div class="w-20 h-20 md:w-28 md:h-28 flex items-center">
                 <img
                   src="/img/Sertif_DasarJavascript.png"
-                  class="rounded-lg ..."
+                  class="rounded-lg md:rounded-xl"
                   alt="Certificate"
                 />
               </div>
@@ -122,10 +122,10 @@
               </a>
             </div>
             <div>
-              <div class="w-20 h-20 ...">
+              <div class="w-20 h-20 md:w-28 md:h-28 flex items-center">
                 <img
                   src="/img/Sertif_DasarJavascript.png"
-                  class="rounded-lg ..."
+                  class="rounded-lg md:rounded-xl"
                   alt="Certificate"
                 />
               </div>
@@ -205,10 +205,10 @@
               </a>
             </div>
             <div>
-              <div class="w-20 h-20 ...">
+              <div class="w-20 h-20 md:w-28 md:h-28 flex items-center">
                 <img
                   src="/img/Sertif_BelajardasarAI.png"
-                  class="rounded-lg ..."
+                  class="rounded-lg md:rounded-xl"
                   alt="Certificate"
                 />
               </div>
@@ -248,10 +248,10 @@
               </a>
             </div>
             <div>
-              <div class="w-20 h-20 ...">
+              <div class="w-20 h-20 md:w-28 md:h-28 flex items-center">
                 <img
                   src="/img/Sertif_ManajemenProyek.png"
-                  class="rounded-lg ..."
+                  class="rounded-lg md:rounded-xl"
                   alt="Certificate"
                 />
               </div>
@@ -290,10 +290,10 @@
               </a>
             </div>
             <div>
-              <div class="w-20 h-20 ...">
+              <div class="w-20 h-20 md:w-28 md:h-28 flex items-center">
                 <img
                   src="/img/Sertif_AWSCloud.png"
-                  class="rounded-lg ..."
+                  class="rounded-lg md:rounded-xl"
                   alt="Certificate"
                 />
               </div>
